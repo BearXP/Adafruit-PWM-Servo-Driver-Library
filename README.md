@@ -1,3 +1,16 @@
+Original library taken from:
+ https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
+
+How to Install:
+ cd c:\users\xxxx\Documents\Arduino\Libraries
+ git clone http://github.com/bearxp/Adafruit-PWM-Servo-Driver-Library
+
+
+Changes from original:
+ Note: May not be up to date with latest copy of adafruit's library.
+ Added example code for hexapod
+
+
 This is a library for our Adafruit 16-channel PWM & Servo driver
 
   Pick one up today in the adafruit shop!
